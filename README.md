@@ -13,12 +13,10 @@ I’m a Senior CAD & Engineering Systems Specialist with extensive experience in
 - CAD customization, automation & scripting  
 - Design & engineering workflows for large-scale offshore and subsea projects  
 - Supporting multi-disciplinary engineering teams  
-- Implementing and integrating digital engineering solutions
 
 Over the years I’ve contributed to engineering systems development at **Subsea7** and **Seaway7**, including:  
 - Improving CAD standards and automation  
 - Developing custom tools for design teams  
-- Supporting project execution teams across multiple regions  
 - Implementing engineering software upgrades and integrations  
 - Providing expertise across CAD, BIM, steel detailing, and workflow optimization
 
@@ -27,11 +25,10 @@ Over the years I’ve contributed to engineering systems development at **Subsea
 ## 🛠️ Technical Skills  
 ### **Engineering & CAD Platforms**
 - AutoCAD  
-- Revit  
-- Civil3D  
-- ProSteel  
-- SketchUp  
-- BIM workflows  
+- Inventor  
+- Vault  
+- BricsCAD  
+- APS
 
 ### **Scripting & Development**
 - C#  
@@ -47,13 +44,6 @@ Over the years I’ve contributed to engineering systems development at **Subsea
 
 ---
 
-## 🌍 Professional Background  
-- **Senior CAD & Engineering Systems Specialist – Subsea7**  
-- Senior Systems Developer – Subsea7  
-- Autodesk Application Specialist – Seaway7  
-
----
-
 ## 📌 What You’ll Find on My GitHub  
 While my day-to-day work is focused on enterprise engineering systems within Subsea7, on GitHub I explore:  
 - Automation scripts  
@@ -63,8 +53,6 @@ While my day-to-day work is focused on enterprise engineering systems within Sub
 - Tools supporting engineering data and design logic  
 
 I use GitHub as a sandbox for testing ideas, developing small utilities, and sharing work that can support engineering & technical communities.
-
----
 
 ---
 
